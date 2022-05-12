@@ -1,0 +1,21 @@
+.busqueda {
+    margin:2rem;
+}
+
+.busqueda>h1{
+    margin: 2rem auto;
+    color:rgba(126, 2, 2, 0.63)
+}
+
+.hstack>input{
+    width: 30% !important;
+ 
+}
+.hstack{
+    justify-content: center;
+}
+
+.leaflet-container {
+    width:97vw;
+    height:80vh;
+}

@@ -1,0 +1,21 @@
+.big-box {
+    text-align: center;  
+    box-shadow: 0 2px 20px 3px #5e2a2a4d;
+    padding: 2rem;
+    margin: 1rem auto;
+ 
+ 
+}
+
+.aside {
+  background-color: rgba(136, 0, 29, 0.075);
+  padding: 1rem;
+  margin: 1rem auto;
+  text-align: center;
+
+}
+
+.derecha{
+  display:flex;
+  justify-content: right;
+}

@@ -1,0 +1,10 @@
+.error {
+    color:red;
+}
+
+.boton-principal{
+    margin:5rem 5rem !important; 
+    font-size: 2rem !important;
+    justify-items: center;
+    /* se puede usar aqui? */
+}

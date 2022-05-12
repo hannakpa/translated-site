@@ -1,0 +1,8 @@
+.caja-tabla {
+    margin:2rem;
+}
+
+.caja-tabla>h1{
+    margin: 2rem auto;
+    color:rgba(126, 2, 2, 0.63)
+}
